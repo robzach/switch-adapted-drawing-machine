@@ -7,3 +7,13 @@ The machine’s hardware is simple to fabricate and assemble using facilities pr
 # File structure
 
 Development is currently underway (as of summer 2025), and as such our working files are in the `/development` directory. We anticipate adding a `/production` directory once we have at least a fully-fledged alpha version that is ready for others to duplicate and build upon.
+
+# Acknowledgements
+
+The design for the primary XY linkage that drives motion is derived from an [open-source plan shared via Thingiverse by user imaicom](https://www.thingiverse.com/thing:4607077).
+
+Certain sections of the Arduino firmware were written with assistance from “Claude,” a generative AI service available at <https://claude.ai>.
+
+# License
+
+As mentioned in the abstract, this project is licensed [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/).
